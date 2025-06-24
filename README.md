@@ -101,7 +101,7 @@ You can verify each instruction in the waveform viewer (e.g., inspect: `pc`, `in
 
 ---
 
-## 🧠 Learning Outcomes
+## 🧠 Conclusion
 
 * FSM design and control signal generation
 * Timing analysis and waveform debugging
